@@ -85,7 +85,7 @@ the results of our experiment are shown below:
 ![loss](./images/loss.png)
 ![accuracy](./images/accuracy.png)
 
-Test Loss:  0.03955698758363724
+Test Loss:  0.03955698758363724  
 Test Accuracy:  0.9739999771118164
 
 ![confusion_matrix](./images/confusion_matrix.png)
